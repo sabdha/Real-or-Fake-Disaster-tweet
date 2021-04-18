@@ -3,5 +3,5 @@ This model uses the implementation of BERT from the Tensorflow models repository
 Tools and Libraries: BERT, Python, Scikitlearn, Tensor Flow, Matplotlib, seaborn
 Cloud Services: Google Colab
 Processing Unit: GPU
-My Score:[Link](https://github.com/sabdha/Real-or-Fake-Disaster-tweet/blob/master/My_Score.png)
+My Score:![hippo](https://github.com/sabdha/Real-or-Fake-Disaster-tweet/blob/master/My_Score.png)
 
